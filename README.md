@@ -30,5 +30,10 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
