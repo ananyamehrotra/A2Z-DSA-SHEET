@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -30,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 ## Binary Search
