@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
