@@ -17,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0046-permutations) |
