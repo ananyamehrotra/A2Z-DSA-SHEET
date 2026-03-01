@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@
 | [0046-permutations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,4 +119,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
