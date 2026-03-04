@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -123,4 +125,8 @@
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
