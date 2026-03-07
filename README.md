@@ -9,6 +9,7 @@
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
