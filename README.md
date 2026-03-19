@@ -70,6 +70,7 @@
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
