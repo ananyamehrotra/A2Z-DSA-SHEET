@@ -109,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
