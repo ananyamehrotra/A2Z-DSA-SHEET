@@ -21,6 +21,7 @@
 | [0002-add-two-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
