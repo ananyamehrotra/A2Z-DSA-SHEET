@@ -73,6 +73,7 @@
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -118,6 +119,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
