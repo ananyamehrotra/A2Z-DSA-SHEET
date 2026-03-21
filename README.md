@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
