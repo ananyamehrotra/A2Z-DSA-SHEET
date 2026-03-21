@@ -83,6 +83,7 @@
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
+| [1313-decompress-run-length-encoded-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
