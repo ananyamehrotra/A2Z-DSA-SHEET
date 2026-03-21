@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0160-intersection-of-two-linked-lists) |
@@ -61,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
@@ -170,6 +173,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
