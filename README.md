@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
@@ -110,6 +111,7 @@
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -152,6 +154,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,11 +177,13 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
