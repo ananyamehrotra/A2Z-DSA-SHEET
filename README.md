@@ -15,6 +15,7 @@
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -90,6 +91,7 @@
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
@@ -117,6 +119,7 @@
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -132,6 +135,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
