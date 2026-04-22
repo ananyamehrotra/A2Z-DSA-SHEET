@@ -124,6 +124,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String Matching
 |  |
 | ------- |
@@ -305,14 +307,17 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Strongly Connected Component
 |  |
 | ------- |
