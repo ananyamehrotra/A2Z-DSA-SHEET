@@ -68,6 +68,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -241,6 +243,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
@@ -256,6 +259,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
