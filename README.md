@@ -65,6 +65,7 @@
 | [0069-sqrtx](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -209,6 +210,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
+| [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
+| [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
