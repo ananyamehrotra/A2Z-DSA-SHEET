@@ -274,6 +274,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 ## Monotonic Stack
