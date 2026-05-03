@@ -42,6 +42,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
@@ -294,6 +296,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 ## Monotonic Stack
