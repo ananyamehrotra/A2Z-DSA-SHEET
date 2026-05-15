@@ -105,6 +105,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0503-next-greater-element-ii) |
@@ -177,6 +178,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0907-sum-of-subarray-minimums) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
