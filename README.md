@@ -67,6 +67,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
+| [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -148,6 +149,7 @@
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
@@ -279,6 +281,7 @@
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
+| [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
