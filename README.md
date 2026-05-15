@@ -377,4 +377,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
