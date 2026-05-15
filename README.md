@@ -382,4 +382,5 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0607-sales-person) |
+| [3564-seasonal-sales-analysis](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3564-seasonal-sales-analysis) |
 <!---LeetCode Topics End-->
