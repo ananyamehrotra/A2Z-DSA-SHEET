@@ -69,6 +69,7 @@
 | [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Recursion
@@ -122,6 +123,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1313-decompress-run-length-encoded-list) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0046-permutations) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -364,5 +367,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
