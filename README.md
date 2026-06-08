@@ -56,6 +56,7 @@
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 ## Math
 |  |
@@ -127,6 +128,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 ## Binary Search
@@ -257,6 +259,7 @@
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
