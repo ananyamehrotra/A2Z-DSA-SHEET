@@ -106,6 +106,7 @@
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
@@ -278,6 +279,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
