@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0849-maximize-distance-to-closest-person) |
@@ -162,6 +164,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0875-koko-eating-bananas](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -184,6 +187,7 @@
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
