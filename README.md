@@ -138,6 +138,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1901-find-a-peak-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
@@ -165,6 +166,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1901-find-a-peak-element-ii) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
@@ -300,6 +302,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
+| [1901-find-a-peak-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1901-find-a-peak-element-ii) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 ## Prefix Sum
 |  |
