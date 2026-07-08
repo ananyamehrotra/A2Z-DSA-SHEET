@@ -109,6 +109,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
@@ -151,6 +152,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0704-binary-search) |
@@ -185,6 +187,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [0054-spiral-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 ## Prefix Sum
