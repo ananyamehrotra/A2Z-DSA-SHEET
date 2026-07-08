@@ -142,6 +142,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
 ## Bit Manipulation
 |  |
