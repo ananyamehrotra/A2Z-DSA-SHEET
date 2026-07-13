@@ -76,6 +76,7 @@
 | [1518-water-bottles](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1518-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2469-convert-the-temperature) |
