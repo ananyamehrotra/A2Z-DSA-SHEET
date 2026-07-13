@@ -126,6 +126,7 @@
 | [0518-coin-change-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search Tree
