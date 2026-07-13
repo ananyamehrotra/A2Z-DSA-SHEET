@@ -77,6 +77,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [1518-water-bottles](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 ## Backtracking
 |  |
 | ------- |
