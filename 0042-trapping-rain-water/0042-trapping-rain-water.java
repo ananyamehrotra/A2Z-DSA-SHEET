@@ -6,15 +6,15 @@ class Solution {
         int rmax=height[j];
         int w=0;
         while(i<j){
-            lmax = Math.max(lmax, height[i]);
-            rmax = Math.max(rmax, height[j]);
             if(lmax<=rmax){
-                w+=lmax-height[i];
                 i++;
+                lmax=Math.max(lmax,height[i]);
+                w+=lmax-height[i];
             }
             else{
-                w+=rmax-height[j];
                 j--;
+                rmax=Math.max(rmax,height[j]);
+                w+=rmax-height[j];
             }
         }
         return w;
