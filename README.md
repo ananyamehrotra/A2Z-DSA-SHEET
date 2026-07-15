@@ -491,6 +491,7 @@
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0607-sales-person) |
+| [1693-daily-leads-and-partners](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1693-daily-leads-and-partners) |
 | [3564-seasonal-sales-analysis](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3564-seasonal-sales-analysis) |
 ## Heap (Priority Queue)
 |  |
