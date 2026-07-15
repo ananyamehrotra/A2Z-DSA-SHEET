@@ -1,13 +1,28 @@
 class Solution {
-    public int[] nextGreaterElements(int[] arr) {
-        Stack<Integer> st=new Stack<>();
-        int n = arr.length;
-        int[] left=new int[arr.length];
-        for(int i = 2 * n - 1; i >= 0; i--){
-            while(!st.isEmpty()&&arr[st.peek()]<=arr[i%n])st.pop();
-            left[i%n]=st.isEmpty()?-1:arr[st.peek()];
-            st.push(i%n);
+    public int[] nextGreaterElements(int[] nums) {
+        int n = nums.length;
+        int[] ans = new int[n];
+        Arrays.fill(ans, -1);
+
+        Deque<Integer> st = new ArrayDeque<>();
+
+        for (int i = 2 * n - 1; i >= 0; i--) {
+
+            int idx = i % n;
+
+            while (!st.isEmpty() && nums[st.peek()] <= nums[idx]) {
+                st.pop();
+            }
+
+            if (i < n) {
+
+                if (!st.isEmpty())
+                    ans[idx] = nums[st.peek()];
+            }
+
+            st.push(idx);
         }
-        return left;
+
+        return ans;
     }
 }
