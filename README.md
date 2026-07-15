@@ -61,6 +61,7 @@
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -263,6 +264,7 @@
 | [0503-next-greater-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
@@ -320,6 +322,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
 | [1518-water-bottles](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1518-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -370,6 +373,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
