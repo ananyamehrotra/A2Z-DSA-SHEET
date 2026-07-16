@@ -121,6 +121,7 @@
 | [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +248,7 @@
 | [0042-trapping-rain-water](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -263,6 +265,7 @@
 | [0020-valid-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
@@ -351,6 +354,7 @@
 | [0054-spiral-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
@@ -423,6 +427,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0503-next-greater-element-ii) |
