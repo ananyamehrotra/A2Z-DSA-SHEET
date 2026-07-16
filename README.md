@@ -272,6 +272,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0496-next-greater-element-i) |
@@ -463,6 +464,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
