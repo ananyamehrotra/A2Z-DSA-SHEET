@@ -1,25 +1,15 @@
 class StockSpanner {
-    int ind=-1;
-    int ans=0;
-    Stack <int[]> st= new Stack<>();
+    Deque<int[]> d;
+    
     public StockSpanner() {
-         int ind=-1;
-         st= new Stack<>();
+       d=new ArrayDeque<>();
     }
     
     public int next(int price) {
-        ind+=1;
-        while(!st.isEmpty() && st.peek()[0]<=price){
-            st.pop();
-        }
-        if(st.isEmpty()){
-            ans=ind+1;
-        }
-        else{
-            ans= ind - st.peek()[1];
-        }
-        st.push(new int[]{price,ind});
-        return ans;
+        int s=1;
+        while(!d.isEmpty()&&d.peek()[0]<=price)s+=d.pop()[1];
+        d.push(new int[]{price,s});
+        return s;
     }
 }
 
