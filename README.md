@@ -263,6 +263,7 @@
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0907-sum-of-subarray-minimums) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -399,6 +400,7 @@
 | [0412-fizz-buzz](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
