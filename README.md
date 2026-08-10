@@ -260,6 +260,7 @@
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -397,6 +398,7 @@
 | [0049-group-anagrams](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0242-valid-anagram) |
