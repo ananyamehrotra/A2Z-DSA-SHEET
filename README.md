@@ -33,6 +33,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -238,6 +240,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
