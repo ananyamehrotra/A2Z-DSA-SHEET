@@ -150,6 +150,7 @@
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -213,6 +214,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0540-single-element-in-a-sorted-array) |
@@ -279,6 +281,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
@@ -571,4 +574,8 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1092-shortest-common-supersequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
