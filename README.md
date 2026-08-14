@@ -34,6 +34,7 @@
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -451,6 +452,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 ## Greedy
 |  |
@@ -504,6 +506,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search Tree
 |  |
 | ------- |
