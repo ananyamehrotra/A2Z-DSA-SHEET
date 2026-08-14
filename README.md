@@ -104,6 +104,7 @@
 | [2469-convert-the-temperature](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
+| [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -206,6 +207,7 @@
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -257,6 +259,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -605,4 +608,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
