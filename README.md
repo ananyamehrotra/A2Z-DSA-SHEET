@@ -26,6 +26,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
@@ -70,6 +71,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -178,6 +180,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1222-queens-that-can-attack-the-king) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
@@ -248,6 +251,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
@@ -293,6 +297,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0907-sum-of-subarray-minimums) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1092-shortest-common-supersequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -437,6 +442,7 @@
 | [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
