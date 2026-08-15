@@ -193,6 +193,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1901-find-a-peak-element-ii) |
@@ -257,6 +258,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -308,6 +310,7 @@
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
