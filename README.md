@@ -468,6 +468,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 ## Greedy
