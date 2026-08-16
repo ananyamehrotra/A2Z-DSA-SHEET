@@ -103,6 +103,7 @@
 | [2413-smallest-even-multiple](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
