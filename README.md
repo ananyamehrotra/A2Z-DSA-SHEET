@@ -146,6 +146,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -352,6 +354,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
@@ -378,6 +381,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0144-binary-tree-preorder-traversal) |
@@ -536,6 +540,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0700-search-in-a-binary-search-tree) |
 ## Design
 |  |
