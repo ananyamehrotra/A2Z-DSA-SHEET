@@ -87,6 +87,7 @@
 | [0002-add-two-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
@@ -119,6 +120,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1922-count-good-numbers) |
 ## Array
