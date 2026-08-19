@@ -29,6 +29,7 @@
 | [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -199,6 +200,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -497,6 +499,7 @@
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -591,6 +594,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
