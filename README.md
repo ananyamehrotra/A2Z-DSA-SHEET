@@ -221,6 +221,7 @@
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -413,6 +414,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
