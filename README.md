@@ -150,6 +150,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0046-permutations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
@@ -604,6 +606,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0260-single-number-iii) |
