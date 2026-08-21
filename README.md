@@ -218,6 +218,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1816-truncate-sentence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1901-find-a-peak-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1901-find-a-peak-element-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -500,6 +501,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1816-truncate-sentence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
