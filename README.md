@@ -166,6 +166,7 @@
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0312-burst-balloons) |
@@ -600,6 +601,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
