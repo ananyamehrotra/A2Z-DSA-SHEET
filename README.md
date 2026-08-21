@@ -154,6 +154,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0137-single-number-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -600,6 +601,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0338-counting-bits) |
