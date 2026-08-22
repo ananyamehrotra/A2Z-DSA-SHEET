@@ -33,6 +33,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
@@ -465,6 +466,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 ## String
 |  |
@@ -504,6 +506,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1816-truncate-sentence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
+| [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -628,6 +631,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
