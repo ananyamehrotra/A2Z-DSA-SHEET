@@ -81,6 +81,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -375,6 +376,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -516,6 +518,7 @@
 | [1816-truncate-sentence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
