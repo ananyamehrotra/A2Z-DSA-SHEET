@@ -525,6 +525,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2278-percentage-of-letter-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2278-percentage-of-letter-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2710-remove-trailing-zeros-from-a-string) |
