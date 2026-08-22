@@ -218,6 +218,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1539-kth-missing-positive-number) |
