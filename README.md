@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0804-unique-morse-code-words](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0804-unique-morse-code-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0930-binary-subarrays-with-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -195,6 +196,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0739-daily-temperatures) |
+| [0804-unique-morse-code-words](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0804-unique-morse-code-words) |
 | [0849-maximize-distance-to-closest-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0907-sum-of-subarray-minimums) |
@@ -489,6 +491,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
 | [0796-rotate-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0844-backspace-string-compare) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
