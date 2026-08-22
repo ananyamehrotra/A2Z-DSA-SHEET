@@ -249,6 +249,7 @@
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
