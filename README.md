@@ -41,6 +41,7 @@
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -89,6 +90,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -245,6 +247,7 @@
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
