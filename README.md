@@ -112,6 +112,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1922-count-good-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2427-number-of-common-factors) |
@@ -296,6 +297,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
@@ -541,6 +543,7 @@
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1386-cinema-seat-allocation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String Matching
