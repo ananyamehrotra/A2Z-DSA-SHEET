@@ -103,6 +103,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1248-count-number-of-nice-subarrays) |
 | [1518-water-bottles](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1518-water-bottles) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -496,6 +497,7 @@
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [1021-remove-outermost-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1048-longest-string-chain) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1108-defanging-an-ip-address) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -678,4 +680,12 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
