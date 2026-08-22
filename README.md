@@ -250,6 +250,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2951-find-the-peaks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
@@ -660,6 +661,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1915-number-of-wonderful-substrings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1915-number-of-wonderful-substrings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
