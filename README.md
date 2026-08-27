@@ -236,6 +236,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1816-truncate-sentence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1863-sum-of-all-subset-xor-totals) |
