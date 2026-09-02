@@ -733,4 +733,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
