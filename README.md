@@ -135,6 +135,7 @@
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
