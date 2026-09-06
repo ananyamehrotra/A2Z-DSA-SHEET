@@ -1,10 +1,12 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        HashMap<Integer,Integer> h=new HashMap<>();
+        int c=0;
+        int a=0;
         for(int i:nums){
-            h.put(i,h.getOrDefault(i,0)+1);
-            if(h.get(i)>nums.length/2)return i;
+            if(c==0)a=i;
+            if(i==a)c++;
+            else c--;
         }
-        return -1;
+        return a;
     }
 }
