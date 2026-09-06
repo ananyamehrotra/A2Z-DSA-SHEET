@@ -1,18 +1,10 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int n=nums.length;
-        int c=0;
-        int e=nums[0];
-        for(int i=0;i<n;i++){
-            if(c==0){
-                e=nums[i];
-                c=1;
-            }
-            else{
-                if(nums[i]==e) c++;
-                else c--;
-            }
+        HashMap<Integer,Integer> h=new HashMap<>();
+        for(int i:nums){
+            h.put(i,h.getOrDefault(i,0)+1);
+            if(h.get(i)>nums.length/2)return i;
         }
-        return e;
+        return -1;
     }
 }
