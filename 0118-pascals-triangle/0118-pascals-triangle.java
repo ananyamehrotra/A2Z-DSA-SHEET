@@ -1,23 +1,21 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> l=new ArrayList<List<Integer>>();
-        int f=1;
+        List<List<Integer>> ll=new ArrayList<>();
         for(int i=0;i<numRows;i++){
-            List<Integer> ll=new ArrayList<>();
+            List<Integer> l=new ArrayList<>();
             for(int j=0;j<=i;j++){
-                ll.add(nCr(i,j));
+                l.add(nCr(i,j));
             }
-            l.add(new ArrayList<>(ll));
+            ll.add(new ArrayList<>(l));
         }
-        return l;
+        return ll;   
     }
-    int nCr(int n, int r) {
-        int res = 1;
-
-        for (int i = 0; i < r; i++) {
-            res = res * (n - i);
-            res = res / (i + 1);
+    public static int nCr(int n, int r){
+        int a=1;
+        for(int i=0;i<r;i++){
+            a*=(n-i);
+            a/=(i+1);
         }
-        return res;
+        return a;
     }
 }
