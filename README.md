@@ -132,6 +132,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3024-type-of-triangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3024-type-of-triangle) |
+| [3099-harshad-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3099-harshad-number) |
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
