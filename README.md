@@ -704,6 +704,7 @@
 | [0584-find-customer-referee](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0607-sales-person) |
+| [1148-article-views-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1148-article-views-i) |
 | [1693-daily-leads-and-partners](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1757-recyclable-and-low-fat-products) |
 | [3564-seasonal-sales-analysis](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3564-seasonal-sales-analysis) |
