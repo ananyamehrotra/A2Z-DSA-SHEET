@@ -115,6 +115,7 @@
 | [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0836-rectangle-overlap](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0836-rectangle-overlap) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0952-largest-component-size-by-common-factor) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -764,4 +765,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
