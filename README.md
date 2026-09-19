@@ -261,6 +261,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -331,6 +332,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1657-determine-if-two-strings-are-close) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2465-number-of-distinct-averages) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -588,6 +590,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
