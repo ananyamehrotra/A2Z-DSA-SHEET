@@ -486,6 +486,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -577,6 +578,7 @@
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3455-shortest-matching-substring](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3455-shortest-matching-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
