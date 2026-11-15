@@ -109,6 +109,7 @@
 | [0048-rotate-image](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
@@ -374,6 +375,7 @@
 | [0042-trapping-rain-water](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0115-distinct-subsequences) |
@@ -805,5 +807,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
