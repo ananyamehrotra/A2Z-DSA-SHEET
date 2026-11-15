@@ -116,6 +116,7 @@
 | [0268-missing-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0365-water-and-jug-problem) |
 | [0412-fizz-buzz](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0836-rectangle-overlap) |
 | [0899-orderly-queue](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0899-orderly-queue) |
@@ -154,6 +155,7 @@
 | [0206-reverse-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -389,6 +391,7 @@
 | [0338-counting-bits](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0583-delete-operation-for-two-strings) |
@@ -799,4 +802,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
