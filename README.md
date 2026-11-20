@@ -498,6 +498,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3100-water-bottles-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/3498-reverse-degree-of-a-string) |
@@ -585,6 +586,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2278-percentage-of-letter-in-string) |
 | [2325-decode-the-message](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2325-decode-the-message) |
 | [2405-optimal-partition-of-string](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/2405-optimal-partition-of-string) |
