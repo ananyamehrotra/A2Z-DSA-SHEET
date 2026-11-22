@@ -197,6 +197,7 @@
 | [0169-majority-element](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0219-contains-duplicate-ii) |
@@ -387,6 +388,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ananyamehrotra/A2Z-DSA-SHEET/tree/master/0312-burst-balloons) |
